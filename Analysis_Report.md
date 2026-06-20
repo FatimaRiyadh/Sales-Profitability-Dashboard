@@ -7,25 +7,25 @@ The project aims to transform raw data into interactive insights that support ma
 1. Which product category generates the most revenue, and what is its market share?
    The top-selling category is smartphones, which generated revenues of 1.11 billion.
 <p align="center">
-  <img src="pc1.png" width="400">
+  <img src="p1.png" width="400">
 </p>
 
 2. How did sales behavior and development occur over the months of the year?
    Sales started very strongly in January, reaching their highest peak, followed by a gradual decline until they reached their lowest point in March. After that,
    sales fluctuated with a notable rise in May, August and November.
 <p align="center">
-  <img src="pc2.png" width="400">
+  <img src="p2.png" width="400">
 </p>
 
 3. Which branch performed best in terms of sales, and which branch performed worst?
    The Baghdad branch is the highest and the Basra branch is the lowest.
 <p align="center">
-  <img src="pc3.png" width="400">
+  <img src="p3.png" width="400">
 </p>
 
 4. Did the company achieve good net profits compared to the total sales volume?
 <p align="center">
-  <img src="pc4.png" width="400">
+  <img src="p4.png" width="400">
 </p>
 
 5. If we want to evaluate the performance of the "Baghdad" branch separately, how does the control panel enable us to know
@@ -34,5 +34,5 @@ its sales and the most requested products in it?
   only the Baghdad governorate's data. The performance cards will show the total sales and profits of the Baghdad branch,
   and the product chart will dynamically display the best-selling categories specifically within Baghdad.
 <p align="center">
-  <img src="pc4.png" width="400">
+  <img src="p4.png" width="400">
 </p>
